@@ -1,0 +1,8 @@
+/* external method
+type selector: div*/
+div {
+    font-size: xx-large;
+    font-weight: bold;
+    background-color: aqua;
+    color: darkblue;
+}
