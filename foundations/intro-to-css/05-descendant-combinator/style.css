@@ -1,7 +1,26 @@
 /* Add CSS Styling */
-.container {
+/* descendant combinator: type selectors */
+/* .container {
     font-size: 20px;
     text-align: center;
     color: red;
+    background-color: yellow;
+} */
+
+/* Alternative way of desendant combinator  */
+/* type selectors */
+
+/* div p {
+    font-size: 20px;
+    color: red;
+    text-align: center;
+    background-color: yellow;
+} */
+
+/* class selector */
+.container .text {
+    font-size: 20px;
+    color: red;
+    text-align: center;
     background-color: yellow;
 }
