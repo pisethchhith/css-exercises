@@ -1,1 +1,30 @@
 /* Add CSS Styling */
+.odd, .odd.two, .odd#three {
+    font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+    background-color: lightpink;
+}
+
+.odd.two {
+    font-size: 24px;
+}
+
+#even-one {
+    font-size: 36px;
+    color: blue;
+}
+
+#even-two {
+    font-weight: bold;
+    font-size: 24px;
+    background-color: lightgreen;
+}
+
+/* Align text to center */
+* {
+    text-align: center;
+}
+
+
+
+
+
